@@ -1,11 +1,11 @@
-# **Monitorización Web con Hugginn**
+# **Monitorización Web con Huginn**
 ## **Moisés Otero Leiva**
 
 * * *
 
 ## Introducción
 
-[Hugginn](https://github.com/huginn/) es un software de monitorización web que nos permite crear agentes que, al detectar algún cambio, nos permite realizar distintas, como enviar avisos o guardar un registro.
+[Huginn](https://github.com/huginn/) es un software de monitorización web que nos permite crear agentes que, al detectar algún cambio, nos permite realizar distintas, como enviar avisos o guardar un registro.
 
 ## Finalidad
 
@@ -26,7 +26,7 @@ El objetivo de este proyecto es facilitar y agilizar mi día a día a la hora de
 Para este proyecto, necesitaré:
 
 - Un ordenador que haga de servidor.
-- [Hugginn](https://github.com/huginn/).
+- [Huginn](https://github.com/huginn/).
 - Cualquier navegador web.
 
 Opcionalmente, podría necesitar:
